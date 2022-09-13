@@ -1,0 +1,92 @@
+.home-container {
+    margin-top: 50px;
+    /* border: 2px solid red; */
+
+}
+
+.home-button-main-div {
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: center;
+}
+
+.home-button-div {
+    /* border: 2px solid green; */
+    width: 80%;
+    display: flex;
+    justify-content: end;
+}
+
+.home-button {
+    padding: 10px;
+    background-color: white;
+    border: 0.5px solid #3A3B3C;
+    border-radius: 4px;
+}
+
+.home-button-link {
+    text-decoration: none;
+    color: #3A3B3C;
+    letter-spacing: 1px;
+    padding: 5px
+}
+
+.home-table-div {
+    margin-top: 20px;
+    /* border: 2px solid blue; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.table-container {
+    /* border: 1px solid black; */
+    width: 900px;
+}
+
+.table-head-thead {
+    /* border:2px solid orange; */
+    background-color: #313131;
+    color: white;
+
+}
+
+.table-heading {
+    padding: 10px;
+}
+
+.table-heading-row {}
+
+.table-row {}
+
+.table-row:hover {
+    background-color: rgb(229, 224, 224);
+}
+
+.table-row-data {
+    padding: 10px;
+    /* border: 1px solid black; */
+}
+
+.home-edit-button {
+    border: 1px solid blue;
+    background-color: rgb(60, 60, 250);
+    color: white;
+    text-decoration: none;
+    padding: 7px
+}
+
+.home-delete-button {
+    padding: 7px;
+    background-color: rgb(237, 55, 55);
+    color: white;
+    border-color: red;
+
+}
+
+.home-centering {
+    display: flex;
+    gap: 0.3rem;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,13 @@
+.edit-button{
+    background-color: #FF2E2E;
+    border: none;
+}
+
+.edit-button:hover{
+    background-color:#FF0000;
+}
+
+.edit-link {
+    color: white;
+    text-decoration: none;
+}

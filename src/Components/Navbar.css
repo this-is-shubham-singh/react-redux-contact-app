@@ -1,0 +1,21 @@
+
+
+.navbar {
+    /* border: 1px solid black; */
+    background-color: #313131;
+    height: 70px;
+    display: flex;
+    align-items: center;
+
+}
+
+.navbar-heading {
+    /* border: 1px solid red; */
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    text-decoration: none;
+    /* padding: 10px; */
+    margin-left: 50px;
+    letter-spacing: 1px;
+}
